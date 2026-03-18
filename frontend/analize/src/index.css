@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: #f5f7fa;
+}
+
+/* ukloni default margin za sve */
+* {
+  box-sizing: border-box;
+}
